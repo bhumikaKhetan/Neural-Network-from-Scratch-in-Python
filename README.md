@@ -1,4 +1,5 @@
 # Neural-Network-from-Scratch-in-Python
+Question.txt : Problem Statement details
 nn_1.py : Part 1.A code
 plots_1b/ : Plots for 1.B
 nn_2.py : Part 2 code
